@@ -1,0 +1,3 @@
+[submodule "Resume.SQL.Data"]
+	path = Resume.SQL.Data
+	url = https://github.com/ClintonF84/Resume.SQL.Data.git
